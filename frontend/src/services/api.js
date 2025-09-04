@@ -2,7 +2,7 @@ import axios from 'axios';
 
 
 // Configure axios with base URL
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://yahoo-finance-1.onrender.com';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://yahoo-finance-2.onrender.com';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
