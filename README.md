@@ -33,7 +33,7 @@ A **full-stack Gen Z–style web app** that scrapes **Yahoo Finance private comp
 ┣ 📂 logs      # Cron job & scraper logs
 ┗ README.md
 
-
+```
 
 ---
 
