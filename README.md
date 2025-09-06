@@ -44,10 +44,10 @@ A **full-stack Gen Z–style web app** that scrapes **Yahoo Finance private comp
 
 ## 📸 Screenshots  
 ### Dashboard  
-![Dashboard Screenshot](https://dummyimage.com/900x400/9370DB/ffffff&text=Dashboard+Preview)  
+![Dashboard Screenshot](dashboard_yf.png)  
 
 ### Companies Table  
-![Table Screenshot](https://dummyimage.com/900x400/8A2BE2/ffffff&text=Companies+Table+Preview)  
+![Table Screenshot](company profile.png)  
 
 ---
 
