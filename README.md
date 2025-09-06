@@ -47,7 +47,7 @@ A **full-stack Gen Z–style web app** that scrapes **Yahoo Finance private comp
 ![Dashboard Screenshot](dashboard_yf.png)  
 
 ### Companies Table  
-![Table Screenshot](company profile.png)  
+![Table Screenshot](companyprofile.png)  
 
 ---
 
