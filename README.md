@@ -1,9 +1,6 @@
 # 💜 Yahoo Finance Scraper & Dashboard  
 
-[![Build Status](https://img.shields.io/badge/build-passing-8A2BE2?style=flat-square)]()  
-[![npm version](https://img.shields.io/badge/npm-v1.0.0-9370DB?style=flat-square)]()  
-[![License](https://img.shields.io/badge/license-MIT-DA70D6?style=flat-square)]()  
-[![Deployed](https://img.shields.io/badge/live%20demo-🌐-8A2BE2?style=flat-square)](https://yahoo-finance-nine.vercel.app/)  
+[![Build Status](https://img.shields.io/badge/build-passing-8A2BE2?style=flat-square)]() [![npm version](https://img.shields.io/badge/npm-v1.0.0-9370DB?style=flat-square)]() [![License](https://img.shields.io/badge/license-MIT-DA70D6?style=flat-square)]() [![Deployed](https://img.shields.io/badge/live%20demo-🌐-8A2BE2?style=flat-square)](https://yahoo-finance-nine.vercel.app/)  
 
 ---
 
@@ -28,11 +25,14 @@ A **full-stack Gen Z–style web app** that scrapes **Yahoo Finance private comp
 ---
 
 ## 📂 Project Structure  
+
+```bash
 📦 project-root
-┣ 📂 backend # Node.js + Express + Puppeteer + MongoDB
-┣ 📂 frontend # React (Vite, Recharts, Lucide, Headless UI)
-┣ 📂 logs # Cron job & scraper logs
+┣ 📂 backend   # Node.js + Express + Puppeteer + MongoDB
+┣ 📂 frontend  # React (Vite, Recharts, Lucide, Headless UI)
+┣ 📂 logs      # Cron job & scraper logs
 ┗ README.md
+
 
 
 ---
