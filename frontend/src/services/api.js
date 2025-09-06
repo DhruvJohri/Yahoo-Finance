@@ -39,7 +39,7 @@ api.interceptors.response.use(
 // API functions
 export const fetchCompanies = async () => {
   try {
-    const response = await api.get('/companies');
+    const response = await api.get('/api/companies');
     return response.data;
   } catch (error) {
     throw new Error('Failed to fetch companies');
@@ -48,7 +48,7 @@ export const fetchCompanies = async () => {
 
 export const fetchCompanyBySymbol = async (symbol) => {
   try {
-    const response = await api.get(`/companies/${symbol}`);
+    const response = await api.get(`/api/companies/${symbol}`);
     return response.data;
   } catch (error) {
     throw new Error(`Failed to fetch company: ${symbol}`);
@@ -57,7 +57,7 @@ export const fetchCompanyBySymbol = async (symbol) => {
 
 export const triggerScraper = async () => {
   try {
-    const response = await api.post('/scrape');
+    const response = await api.post('/api/scrape');
     return response.data;
   } catch (error) {
     throw new Error('Failed to trigger scraper');
@@ -66,7 +66,7 @@ export const triggerScraper = async () => {
 
 export const fetchStats = async () => {
   try {
-    const response = await api.get('/stats');
+    const response = await api.get('/api/stats');
     return response.data;
   } catch (error) {
     throw new Error('Failed to fetch stats');
