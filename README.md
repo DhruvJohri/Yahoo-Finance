@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Overview  
-A **full-stack Gen Z–style web app** that scrapes **Yahoo Finance private companies data** and presents it in a sleek, interactive dashboard.  
+A **full-stack web app** that scrapes **Yahoo Finance private companies data** and presents it in a sleek, interactive dashboard.  
 - 🕵️‍♂️ **Scraping** with Puppeteer + cron jobs (auto-updates every 6 hrs)  
 - ⚡ **Backend**: Node.js + Express REST API  
 - 📊 **Frontend**: React + Vite + Recharts (smooth, fast, interactive)  
