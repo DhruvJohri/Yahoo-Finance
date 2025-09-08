@@ -78,7 +78,7 @@ npm run dev
 # Start frontend
 npm run dev
 ```
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are always welcome! 🎉
 
@@ -92,10 +92,10 @@ Push (git push origin feature/awesome)
 
 Open a PR 🚀
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
-🌟 Show Some Love
+## 🌟 Show Some Love
 
-If you like this project, drop a ⭐ on GitHub — it keeps the purple vibes alive 💜
+## If you like this project, drop a ⭐ on GitHub — it keeps the purple vibes alive 💜
